@@ -1,4 +1,4 @@
-# UAS-Kecerdasan-Buatan-MultiLayerPerceptron
+# MultiLayerPerceptron
 UAS 
 # Multilayer-Perceptron
 MLP/Multi Layer Perceptron di Python
