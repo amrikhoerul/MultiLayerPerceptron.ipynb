@@ -30,5 +30,3 @@ gradien, atau lanskap kesalahan, di mana parameter dapat disesuaikan saat mereka
 kesalahan minimal. (ini dapat dilakukan dengan algoritma optimasi berbasis gradien seperti penurunan gradien stokastik).
 
 Jaringan terus memainkan permainan ping-pong itu sampai kesalahannya tidak berkurang. Keadaan ini dikenal sebagai konvergensi.
-
-![MLP](https://www.researchgate.net/profile/Mohamed_Zahran6/publication/303875065/figure/fig4/AS:371118507610123@1465492955561/A-hypothetical-example-of-Multilayer-Perceptron-Network.png)
